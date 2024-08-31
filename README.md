@@ -11,12 +11,7 @@ Styl & Fusion is an innovative e-commerce platform designed to enhance the onlin
 - **Reel Interface:** Fusion offers a scrolling reel interface that showcases multiple outfits uploaded by users, with options to like, comment, and share.
 - **Buy Entire Outfit:** Users can purchase the entire look directly from the Fusion interface.
 
-### Screenshots
-- **Homepage:** ![Homepage Screenshot](path-to-screenshot)
-- **Styl Feature:** ![Styl Screenshot](path-to-screenshot)
-- **Fusion Interface:** ![Fusion Screenshot](path-to-screenshot)
-
-### Using Styl
+### Using Styl [currently not being updated]
 - Navigate to the Styl section from the homepage.
 - Browse through the available clothing items and select the ones you want to include in your outfit.
 - Save your outfit combinations to view or share them later.
