@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, main {
+  @apply h-full relative;
+}
+
+swiper-container {
+  @apply w-full h-full;
+}
+
+swiper-slide {
+  @apply flex justify-center p-4 pt-24 bg-cover bg-no-repeat;
+}
+
+.social-link {
+  @apply mt-1 p-2 block;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.75);
+}
+
+.title {
+  @apply text-center text-4xl text-shadow font-bold;
+}
+
+.subtitle {
+  @apply mt-2 font-semibold text-center text-shadow;
+}
+
+.link-button {
+  @apply inline-block mx-auto py-4 px-6 mt-8 bg-black/30 border-2 border-white rounded-lg text-center text-shadow font-semibold;
+}
+
+.description {
+  @apply absolute bottom-0 left-0 z-10 pb-8 pl-6 pr-20 text-sm leading-relaxed text-shadow;
+}
+
+.video {
+  @apply absolute top-0 left-0 object-cover w-screen h-screen;
+  z-index: 1;
+}
+
+.section {
+  @apply z-10;
+}
+
+/* .slide-1 {
+  background-image: url(https://res.cloudinary.com/dny1birfg/image/upload/f_auto,q_auto/v1/hunterchang/ldbmxqlglazca6d21agh);
+}
+
+
+.slide-2 {
+  background-image: url(https://res.cloudinary.com/dny1birfg/image/upload/f_auto,q_auto/v1/hunterchang/n128ayy0w1fdm6qx9xgc);
+}
+
+
+.slide-3 {
+  background-image: url(https://res.cloudinary.com/dny1birfg/image/upload/f_auto,q_auto/v1/hunterchang/lvnkjl4ydtbbfyw750qq);
+} */
