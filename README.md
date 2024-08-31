@@ -5,6 +5,9 @@ Styl & Fusion is an innovative e-commerce platform designed to enhance the onlin
 - **Styl:** A feature that lets users mix and match various clothing items to create unique outfit combinations.
 - **Fusion:** A social interface where users can upload their Styl creations, engage with others by liking, commenting, and sharing, and purchase complete outfits.
 
+You can view the website live at: https://mohinik7.github.io/Styl-Fusion/
+[Note that the styl feature is not being updated]
+
 ### Features: 
 - **Create Outfits:** Users can browse through a wide range of clothing items and create custom outfit combinations.
 - **Upload & Share:** Users can upload their outfits created in Styl to the Fusion interface, where they can interact with the community.
